@@ -111,5 +111,5 @@ If you'd like to extend it with more scenarios (e.g., database testing, login fl
 ## 🧠 Author
 
 **Sri Aditya**  
-Performance Engineer | CI/CD Practitioner  
+Performance Engineer | Observability Practitioner  
 📌 [LinkedIn](https://www.linkedin.com/in/sriperf) 
